@@ -16,7 +16,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSales10&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=000000" />
 </div>
 
-
 <div align="center"> 
 <a href = "mailto:gabrielsales390@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-sales-%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-998855208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
