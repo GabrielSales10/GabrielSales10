@@ -14,8 +14,6 @@
 <br>
 
 
-
-
 <div align="left" style="display: inline_block">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielSales10&show_icons=true&count_private=true&hide_border=0&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=000000" alt="Gabriel Sales github status" /> 
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSales10&layout=compact&hide_border=0&title_color=00FF00&text_color=FFFFFF&bg_color=000000" />
@@ -23,13 +21,10 @@
 
 <br><br>
 
-
-
-
  
 <!-- <img align="right" width="300" height="320" margin-left="10em" alt="coding-time" margin-border="50%" src="code.gif"> -->
 <div align="left">
-  <img align="right" width="300" height="320" alt="coding-time" margin-border="50%" src="code.gif">
+  <img align="right" width="300" height="320" alt="coding-time" src="code.gif">
   <h2 align="left">Contatos</h2>
 
   <a href = "mailto:gabrielsales390@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
@@ -51,10 +46,6 @@
   ![Vue.JS](https://img.shields.io/badge/-Vue.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=#1572B6)&nbsp;
   ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=0D1117&textColor=0D1117)&nbsp;
 </div>
-
-
-
-
 
 
 
