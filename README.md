@@ -15,7 +15,7 @@
 
 
 <div align="left" style="display: inline_block">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielSales10&show_icons=true&count_private=true&hide_border=0&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=000000" alt="Gabriel Sales github status" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielSales10&show_icons=true&count_private=true&hide_border=0&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=000000" alt="Gabriel Sales github status" /> 
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSales10&layout=compact&hide_border=0&title_color=00FF00&text_color=FFFFFF&bg_color=000000" />
 </div>
 
@@ -53,7 +53,6 @@
 <div align="center">
 <br><h2 align="center"><b>Contador de visitas</b></h2>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielSales10}/count.svg" /></p> 
-<br>
 </div>
 
 
