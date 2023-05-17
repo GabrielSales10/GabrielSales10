@@ -42,4 +42,4 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
-![Snake animation](https://github.com/Mateus-Batista12/Mateus-Batista12/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GabrielSales10/GabrielSales10/blob/output/github-contribution-grid-snake.svg)
