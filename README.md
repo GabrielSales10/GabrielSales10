@@ -13,7 +13,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielSales10&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=000000" alt="Gabriel Sales github status" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSales10&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=000000" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSales10&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000" />
 </div>
 
 <div align="center"> 
