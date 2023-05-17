@@ -58,6 +58,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
 
-<div align="center">
-![Snake animation](https://github.com/GabrielSales10/GabrielSales10/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+![snake gif](https://github.com/GabrielSales10/GabrielSales10/blob/output/github-contribution-grid-snake.svg)
+
