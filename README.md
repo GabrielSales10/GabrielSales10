@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Gabriel+Sales+😎;Resido+em+Fortaleza-CE+☀️🌊;Curso+Engenharia+da+Computação+🧑‍💻;Seja+Bem-vindo!+😁)](https://git.io/typing-svg)
 <br><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielSales10&bg_color=000000&color=00ff00&line=00ff00&point=0000ff&area=true&hide_border=0)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielSales10&bg_color=000000&color=00ff00&line=00ff00&point=0000ff&area=true&hide_border=0)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielSales10&bg_color=000000&color=00ff00&line=00ff00&point=0000ff&area=true&hide_border=0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
